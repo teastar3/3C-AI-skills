@@ -1,6 +1,6 @@
 
 
-# 3C产品大师 Pro
+# 3C产品经理
 
 **7 个 AI Skill，覆盖 3C 产品从 0 到 1 的全流程。**
 
@@ -116,4 +116,4 @@ MIT - 随便用，标注来源就好。
 ## 致谢
 
 基于 [产品大师 Pro](https://github.com/hoitcao/product-master-pro) 进行 3C 硬件特化，感谢原作者的优秀工作。
-*（内容由AI生成，仅供参考）*
+
